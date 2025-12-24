@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Onur Aydındağ
 
-I'm a Data Analyst with a technical background, focused on turning data into actionable business insights.
+I'm a Data Analyst focused on turning data into actionable business insights.
 
 ## 🔍 What I Do
 - Analyze data using SQL, Python, and Excel
