@@ -1,40 +1,26 @@
-:
+# 👋 Hi, I'm Onur Aydındağ
 
-👋 Merhaba, ben Onur Aydındağ
+I'm a Data Analyst with a technical background, focused on turning data into actionable business insights.
 
-Teknik altyapıya sahip bir Veri Analistiyim ve veriyi, iş için aksiyon alınabilir içgörülere dönüştürmeye odaklanıyorum.
+## 🔍 What I Do
+- Analyze data using SQL, Python, and Excel
+- Build business-focused dashboards with Power BI and Tableau
+- Translate analytical results into clear insights for decision-making
 
-🔍 Ne Yapıyorum
+## 🧰 Tools & Technologies
+- SQL (PostgreSQL)
+- Python (Pandas, NumPy, Matplotlib)
+- Excel / Google Sheets
+- Power BI
+- Tableau
+- Git & GitHub
 
-SQL, Python ve Excel kullanarak veri analizi yapıyorum
-
-Power BI ve Tableau ile iş odaklı dashboard’lar geliştiriyorum
-
-Analiz sonuçlarını karar alma süreçleri için net ve anlaşılır içgörülere dönüştürüyorum
-
-🧰 Araçlar & Teknolojiler
-
-SQL (PostgreSQL)
-
-Python (Pandas, NumPy, Matplotlib)
-
-Excel / Google Sheets
-
-Power BI
-
-Tableau
-
-Git & GitHub
-
-📊 Portföy
-
-🔗 Veri Analisti Portföyü:
+## 📊 Portfolio
+🔗 Data Analyst Portfolio:  
 https://github.com/OnurAydindag/Data-Analyst-Portfolio
 
-📈 Dashboard’lar
+## 📈 Dashboards
+- Tableau Public: https://public.tableau.com/app/profile/onur.ayd.nda./vizzes
 
-Tableau Public: https://public.tableau.com/app/profile/onur.ayd.nda./vizzes
-
-📫 İletişim
-
-LinkedIn: https://www.linkedin.com/in/onur-ayd%C4%B1nda%C4%9F-aa528a216/
+## 📫 Contact
+- LinkedIn: https://www.linkedin.com/in/onur-ayd%C4%B1nda%C4%9F-aa528a216/
