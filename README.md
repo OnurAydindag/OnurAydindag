@@ -1,26 +1,19 @@
-# 👋 Hi, I'm Onur Aydındağ
+## Hi, I'm Onur 👋
 
-I'm a Data Analyst focused on turning data into actionable business insights.
+I'm a **Data Analyst** focused on turning data into actionable business insights, 
+with experience in e-commerce and SaaS analytics.
 
-## 🔍 What I Do
-- Analyze data using SQL, Python, and Excel
-- Build business-focused dashboards with Power BI and Tableau
-- Translate analytical results into clear insights for decision-making
+### 📌 What you'll find here
+- End-to-end data analysis projects based on real business scenarios  
+- KPI-driven analyses supporting data-driven decision-making  
+- Selected dashboards built for performance tracking and insights  
 
-## 🧰 Tools & Technologies
-- SQL (PostgreSQL)
-- Python (Pandas, NumPy, Matplotlib)
-- Excel / Google Sheets
-- Power BI
-- Tableau
-- Git & GitHub
+### 🔗 Featured Work
+- **Data Analyst Portfolio**  
+  https://github.com/OnurAydindag/Data-Analyst-Portfolio  
 
-## 📊 Portfolio
-🔗 Data Analyst Portfolio:  
-https://github.com/OnurAydindag/Data-Analyst-Portfolio
+- **Tableau Dashboards**  
+  https://public.tableau.com/app/profile/onur.ayd.nda./vizzes  
 
-## 📈 Dashboards
-- Tableau Public: https://public.tableau.com/app/profile/onur.ayd.nda./vizzes
-
-## 📫 Contact
-- LinkedIn: https://www.linkedin.com/in/onur-ayd%C4%B1nda%C4%9F-aa528a216/
+📫 **LinkedIn**  
+https://www.linkedin.com/in/onur-ayd%C4%B1nda%C4%9F-aa528a216/
