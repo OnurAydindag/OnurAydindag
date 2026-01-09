@@ -1,7 +1,7 @@
 ## Hi, I'm Onur 👋
 
 I'm a **Customer Success Specialist** working with **B2B SaaS and e-commerce products**.
-My background includes working with data and technical tools to better understand
+I use data and technical tools as supporting elements to better understand
 product usage, customer behavior, and retention-related patterns in digital products.
 
 ### 📌 What you'll find here
