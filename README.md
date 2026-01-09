@@ -1,19 +1,20 @@
 ## Hi, I'm Onur 👋
 
-I'm a **Data Analyst** focused on turning data into actionable business insights, 
-with experience in e-commerce and SaaS analytics.
+I'm a **Customer Success Specialist** working with **B2B SaaS and e-commerce products**.
+My background includes working with data and technical tools to better understand
+product usage, customer behavior, and retention-related patterns in digital products.
 
 ### 📌 What you'll find here
-- End-to-end data analysis projects based on real business scenarios  
-- KPI-driven analyses supporting data-driven decision-making  
-- Selected dashboards built for performance tracking and insights  
+- Sample analyses focused on **customer behavior and product usage**
+- Exploratory projects related to **retention, churn signals, and usage patterns**
+- Dashboards and reports created to support **visibility for Customer Success teams**
 
-### 🔗 Featured Work
-- **Data Analyst Portfolio**  
-  https://github.com/OnurAydindag/Data-Analyst-Portfolio  
+### 🔗 Sample Work
+- **Customer & Product Usage Analysis Samples**  
+  https://github.com/OnurAydindag/Data-Analyst-Portfolio
 
-- **Tableau Dashboards**  
-  https://public.tableau.com/app/profile/onur.ayd.nda./vizzes  
+- **Tableau Dashboards (Usage & Behavior Focused)**  
+  https://public.tableau.com/app/profile/onur.ayd.nda./vizzes
 
 📫 **LinkedIn**  
 https://www.linkedin.com/in/onur-ayd%C4%B1nda%C4%9F-aa528a216/
