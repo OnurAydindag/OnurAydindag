@@ -9,8 +9,9 @@ product usage, customer behavior, and retention-related patterns in digital prod
 - Exploratory projects related to **retention, churn signals, and usage patterns**
 - Dashboards and reports created to support **visibility for Customer Success teams**
 
+---
 
-📫 **Tableau Dashboards** 
+📫 **Tableau Dashboards**  
 https://public.tableau.com/app/profile/onur.ayd.nda./vizzes
 
 📫 **LinkedIn**  
