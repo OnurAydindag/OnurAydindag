@@ -10,8 +10,8 @@ product usage, customer behavior, and retention-related patterns in digital prod
 - Dashboards and reports created to support **visibility for Customer Success teams**
 
 
-- **Tableau Dashboards
-  https://public.tableau.com/app/profile/onur.ayd.nda./vizzes
+📫 **Tableau Dashboards** 
+https://public.tableau.com/app/profile/onur.ayd.nda./vizzes
 
 📫 **LinkedIn**  
 https://www.linkedin.com/in/onur-ayd%C4%B1nda%C4%9F-aa528a216/
