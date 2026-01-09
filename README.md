@@ -11,7 +11,7 @@ product usage, customer behavior, and retention-related patterns in digital prod
 
 ---
 
-📫 **Tableau Dashboards**  
+📫 **Tableau Dashboards**        
 https://public.tableau.com/app/profile/onur.ayd.nda./vizzes
 
 📫 **LinkedIn**  
